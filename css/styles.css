@@ -18,9 +18,6 @@ p {
 
 a {
 	color: #093a58;
-}
-
-a {
 	text-decoration: none;
 }
 
@@ -59,7 +56,7 @@ img {
 }
 
 input[type="search"] {
-	background: rgba(255,255,255,0.1);
+  background: rgba(255,255,255,0.1);
   border-radius: 5px;
   border: 1px solid #cccccc;
   font-size: 1em;
@@ -68,7 +65,7 @@ input[type="search"] {
   padding: 12px;
   width: 75%;
   color: #8a97a0;
- 	box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+  box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
 }
 
 
@@ -105,9 +102,6 @@ input[type="search"] {
 		padding-right: .5em;
 	}
 
-	.portfolio-img {
-		width: 80%;
-	}
 
 	input[type="search"] { 
 		width: 60%;
@@ -135,4 +129,3 @@ input[type="search"] {
 		width: 45%;
 	}
 }
-
